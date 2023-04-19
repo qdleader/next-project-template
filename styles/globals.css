@@ -13,10 +13,11 @@
   }
 }
 
+name: 1;
 /* asx  */
 body {
   color: rgb(var(--foreground-rgb));
-  name: 1;
+
   background: linear-gradient(
       to bottom,
       transparent,
