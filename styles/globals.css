@@ -13,11 +13,11 @@
   }
 }
 
-
-
+小明
 /* yangshi */
 body {
-  color: rgb(var(--foreground-rgb))
+  color: rgb(var(--foreground-rgb));
+
   name: 12;
 
   background: linear-gradient(
