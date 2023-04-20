@@ -1,3 +1,5 @@
-export default function Home() {
-  return <div>123 11 324 234</div>;
+import styles from './index.module.scss';
+
+export default function () {
+  return <div className={styles.oBox}>2131</div>;
 }
