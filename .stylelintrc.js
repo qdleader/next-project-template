@@ -6,6 +6,7 @@ module.exports = {
     // "stylelint-config-prettier", // 配置stylelint和prettier兼容
     'stylelint-config-recess-order', // 配置stylelint css属性书写顺序插件,
   ],
+  customSyntax: 'postcss-lit',
   plugins: ['stylelint-scss'], // 配置stylelint 拓展插件
   rules: {
     indentation: null, // 指定缩进空格
