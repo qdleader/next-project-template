@@ -4,6 +4,6 @@ module.exports = {
     'prettier --write--parser json',
   ],
   'package.json': ['prettier --write'],
-  '*.{scss,less,styl}': ['stylelint --fix', 'prettier --write'],
+  '*.{css,scss,less,styl}': ['stylelint --fix', 'prettier --write'],
   '*.md': ['prettier --write'],
 };
